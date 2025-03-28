@@ -1,4 +1,3 @@
-
 import Navbar from "@/components/Navbar";
 import ProgressBar from "@/components/ProgressBar";
 import ProjectCard from "@/components/ProjectCard";
@@ -133,6 +132,12 @@ const experiences = [
     company: "Skill Savvy Interns",
     duration: "May 2023 - August 2023",
     description: "Developed responsive web interfaces for client projects, focusing on UI/UX improvements. Delivered 3 solo projects, enhancing frontend performance and user experience."
+  },
+  {
+    title: "MERN Stack Intern",
+    company: "UptoSkills",
+    duration: "March 2025 - Present",
+    description: "Currently working on full-stack web development projects using MongoDB, Express, React, and Node.js. Developing scalable and efficient web applications with modern development practices."
   }
 ];
 
