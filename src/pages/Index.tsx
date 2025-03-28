@@ -49,21 +49,6 @@ const projects = [
     ],
     imageUrl: "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
     demoLink: "https://ecommerce-dashboard.example.com"
-  },
-  {
-    id: "project4",
-    title: "Personal Finance Tracker",
-    techStack: ["JavaScript", "HTML/CSS", "LocalStorage API", "Chart.js"],
-    description: "A web application for tracking personal finances, budgeting, and visualizing spending patterns with interactive charts and graphs.",
-    features: [
-      "Expense and income tracking", 
-      "Budget creation and monitoring", 
-      "Data visualization with interactive charts", 
-      "Category-based financial analysis"
-    ],
-    imageUrl: "https://images.unsplash.com/photo-1531297484001-80022131f5a1",
-    demoLink: "https://finance-tracker.example.com",
-    githubLink: "https://github.com/nayanfulambarkar/finance-tracker"
   }
 ];
 
@@ -219,8 +204,8 @@ const Index = () => {
                 <h3 className="text-lg font-semibold mb-3">Education</h3>
                 <div className="space-y-2">
                   <div>
-                    <h4 className="font-medium">Bachelor of Engineering in Information Technology</h4>
-                    <p className="text-sm text-muted-foreground">Savitribai Phule Pune University, 2021-2025</p>
+                    <h4 className="font-medium">B.Tech in Computer Science and Engineering</h4>
+                    <p className="text-sm text-muted-foreground">Walchand Institute of Technology, Solapur, 2022-2026</p>
                   </div>
                 </div>
               </div>
